@@ -1,5 +1,5 @@
 apiVersion: v2
-appVersion: "0.1"
+apprsion: "0.1"
 description: A Helm chart to deploy an Azure API Management Gateway on Kubernetes
 name: azure-api-management-gateway
-version: 0.1.0
+veron: 0.1.0
