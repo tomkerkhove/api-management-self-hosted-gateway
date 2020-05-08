@@ -3,3 +3,15 @@ appVersion: "0.1"
 description: A Helm chart to deploy an Azure API Management Gateway on Kubernetes
 name: azure-api-management-gateway
 version: 0.1.0
+icon: https://raw.githubusercontent.com/Azure/api-management-self-hosted-gateway/master/assets/logo.jpg
+sources:
+  - https://github.com/Azure/api-management-self-hosted-gateway
+maintainers:
+  - name: Azure API Management team
+    email: apimgmt@microsoft.com
+keywords:
+  - API Gateway
+  - API Management
+  - Azure
+  - Hybrid
+  - Microsoft Azure
